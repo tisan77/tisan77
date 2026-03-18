@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Santiago Borda 👋
+### Estudiante de Ingeniería en Sistemas de la Información
 
-<!--
-**tisan77/tisan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi espacio de proyectos técnicos. Aquí encontrarás soluciones enfocadas en infraestructura, ciberseguridad y desarrollo de software.
 
-Here are some ideas to get you started:
+## 🛠️ Stack Principal
+- **DevOps:** Docker, Docker Compose
+- **Backend:** Python (Scripts, Automatización)
+- **Seguridad:** Kali Linux, Análisis de protocolos SSL/TLS
+- **DB:** PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos Destacados
+1. 
