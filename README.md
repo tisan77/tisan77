@@ -1,6 +1,6 @@
 # ¡Hola! Soy Santiago Borda 👋
 ### Soy estudiante de Ingeniería en Sistemas de la Información, tengo 22 años y soy de Corrientes, Argentina.
-Nro de contacto: +5493794071989
+Nro de contacto: +5493794071989  
 Email: santiaborda@gmail.com
 
 Bienvenido a mi espacio de proyectos técnicos. Aquí encontrarás soluciones enfocadas en infraestructura, ciberseguridad y desarrollo de software.
@@ -14,7 +14,7 @@ Bienvenido a mi espacio de proyectos técnicos. Aquí encontrarás soluciones en
 
 ## 📂 Proyectos Destacados
 
-**1. Auditoría de Seguridad e Infraestructura**
+**1. Auditoría de Seguridad e Infraestructura**  
 Descripción: Ejecución de un análisis técnico y auditoría de redes para una institución de alta complejidad.
 
 
